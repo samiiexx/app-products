@@ -12,7 +12,7 @@ body {
 .pagination {
     position: fixed;
     z-index: 10;
-    top: 50%;
+    bottom: 10%;
     right: 0;
     padding: 1rem;
 }
