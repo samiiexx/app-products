@@ -12,8 +12,8 @@ body {
 .pagination {
     position: fixed;
     z-index: 10;
-    bottom: 10%;
-    right: 0;
+    bottom: 5%;
+    left: 45%;
     padding: 1rem;
 }
 
